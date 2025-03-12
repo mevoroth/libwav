@@ -1,1 +1,3 @@
-"# libwav" 
+# libwav
+
+A C++ wav library
